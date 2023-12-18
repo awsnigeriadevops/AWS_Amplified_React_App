@@ -1,5 +1,12 @@
 # Build and Host a React App with AWS Amplify
 
+**Table of Contents**
+
+- [Project Overview](#overview)
+- [Features](#features)
+- [Setup](#setup-instructions)
+  - [Prerequisites](#prerequisites)
+
 ## Overview
 
 This project provides a comprehensive guide on building and hosting a React app using AWS Amplify.
@@ -24,9 +31,6 @@ This project provides a comprehensive guide on building and hosting a React app 
    npm install -g @aws-amplify/cli
    ```
 
-
-
 ## License
 
 This project is licensed under the [MIT License](https://github.com/awsnigeriadevops/AWS_Amplified_React_App/blob/main/LICENSE).
-
